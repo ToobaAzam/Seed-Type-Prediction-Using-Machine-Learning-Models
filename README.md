@@ -1,9 +1,12 @@
-Led a project to predict seed types using machine learning techniques as part of the Artificial Intelligence
-course curriculum. Processed and analyzed agricultural data using Python, pandas, and numpy, uncovering 
-correlations and trends. Implemented a Naive Bayes classifier to predict seed types based on features like
-compactness and kernel dimensions, achieving an accuracy of 100% in the test data. Additionally, developed 
-a perceptron model, achieving an accuracy of 33.33%. Presented findings to peers and instructors,
-demonstrating the effectiveness of the models in seed type classification.
+In the field of machine learning and data analysis, Naive Bayesian and Perceptron algorithms
+have proven to be highly effective in various applications. They provide us with powerful tools
+to make predictions, classify data, and gain insights from complex datasets. In this task, we aim
+to classify the wheat seed dataset using these two different methods. The dataset consists of
+various features related to seed properties, and the goal is to classify the type of seed based on
+these features. We discard any irrelevant features that do not contribute significantly to the
+classification task. The Perceptron is a binary classifier that learns weights to create predictions,
+in contrast to the Naive Bayesian technique, which assumes that the features are conditionally
+independent given the class labels.
 
 
 Results:
